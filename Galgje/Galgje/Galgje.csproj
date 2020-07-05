@@ -8,8 +8,11 @@
 
   <ItemGroup>
     <Folder Include="Data\" />
-    <Folder Include="ViewModel\" />
     <Folder Include="View\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GalgjeLibrary\GalgjeLibrary.csproj" />
   </ItemGroup>
 
 </Project>

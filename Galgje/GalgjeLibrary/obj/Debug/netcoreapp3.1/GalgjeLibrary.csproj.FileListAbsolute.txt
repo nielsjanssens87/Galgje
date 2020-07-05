@@ -1,0 +1,9 @@
+C:\Users\Niels\Source\Repos\Galgje2\Galgje\GalgjeLibrary\bin\Debug\netcoreapp3.1\GalgjeLibrary.deps.json
+C:\Users\Niels\Source\Repos\Galgje2\Galgje\GalgjeLibrary\bin\Debug\netcoreapp3.1\GalgjeLibrary.dll
+C:\Users\Niels\Source\Repos\Galgje2\Galgje\GalgjeLibrary\bin\Debug\netcoreapp3.1\GalgjeLibrary.pdb
+C:\Users\Niels\Source\Repos\Galgje2\Galgje\GalgjeLibrary\obj\Debug\netcoreapp3.1\GalgjeLibrary.csprojAssemblyReference.cache
+C:\Users\Niels\Source\Repos\Galgje2\Galgje\GalgjeLibrary\obj\Debug\netcoreapp3.1\GalgjeLibrary.AssemblyInfoInputs.cache
+C:\Users\Niels\Source\Repos\Galgje2\Galgje\GalgjeLibrary\obj\Debug\netcoreapp3.1\GalgjeLibrary.AssemblyInfo.cs
+C:\Users\Niels\Source\Repos\Galgje2\Galgje\GalgjeLibrary\obj\Debug\netcoreapp3.1\GalgjeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Niels\Source\Repos\Galgje2\Galgje\GalgjeLibrary\obj\Debug\netcoreapp3.1\GalgjeLibrary.dll
+C:\Users\Niels\Source\Repos\Galgje2\Galgje\GalgjeLibrary\obj\Debug\netcoreapp3.1\GalgjeLibrary.pdb

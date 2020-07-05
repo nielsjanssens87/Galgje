@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Niels\\source\\repos\\Galgje\\GalgjeLibrary\\GalgjeLibrary.csproj": {}
+    "C:\\Users\\Niels\\Source\\Repos\\Galgje2\\Galgje\\GalgjeLibrary\\GalgjeLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Niels\\source\\repos\\Galgje\\GalgjeLibrary\\GalgjeLibrary.csproj": {
+    "C:\\Users\\Niels\\Source\\Repos\\Galgje2\\Galgje\\GalgjeLibrary\\GalgjeLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Niels\\source\\repos\\Galgje\\GalgjeLibrary\\GalgjeLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Niels\\Source\\Repos\\Galgje2\\Galgje\\GalgjeLibrary\\GalgjeLibrary.csproj",
         "projectName": "GalgjeLibrary",
-        "projectPath": "C:\\Users\\Niels\\source\\repos\\Galgje\\GalgjeLibrary\\GalgjeLibrary.csproj",
+        "projectPath": "C:\\Users\\Niels\\Source\\Repos\\Galgje2\\Galgje\\GalgjeLibrary\\GalgjeLibrary.csproj",
         "packagesPath": "C:\\Users\\Niels\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Niels\\source\\repos\\Galgje\\GalgjeLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Niels\\Source\\Repos\\Galgje2\\Galgje\\GalgjeLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

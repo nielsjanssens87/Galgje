@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Galgje.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +21,20 @@ namespace Galgje
     /// </summary>
     public partial class MainWindow : Window
     {
+        MyViewModel viewmodel = new MyViewModel();
+
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = viewmodel.Spel;
+        }
+
+        private void btnLetter_Click(object sender, RoutedEventArgs e)
+        {
+            Button btn = (Button)sender;
+            btn.IsEnabled = false;
+            viewmodel.Spel.RaadLetter(btn.Content.ToString().ToLower()[0]);
+            txtTeRadenWoord.Text = viewmodel.Spel.SpelerWoord; //mag hier niet staan, zou moeten worden geupdate adhv databinding maar werkt niet voor een of andere reden
         }
     }
 }

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Galgje/1.0.0": {
+        "dependencies": {
+          "GalgjeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Galgje.dll": {}
+        }
+      },
+      "GalgjeLibrary/1.0.0": {
+        "runtime": {
+          "GalgjeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Galgje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GalgjeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -7,6 +7,45 @@
         mc:Ignorable="d"
         Title="MainWindow" SizeToContent="WidthAndHeight" Height="450" Width="600">
     <Grid>
-
+        <StackPanel>
+            <Image x:Name="imgGalg"></Image>
+            <TextBlock x:Name="txtTeRadenWoord" Text="{Binding SpelerWoord}" FontSize="18"></TextBlock>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="btnA" Width="20" Click="btnLetter_Click" Tag="a">A</Button>
+                <Button x:Name="btnB" Width="20" Click="btnLetter_Click" Tag="b">B</Button>
+                <Button x:Name="btnC" Width="20" Click="btnLetter_Click" Tag="c">C</Button>
+                <Button x:Name="btnD" Width="20" Click="btnLetter_Click" Tag="d">D</Button>
+                <Button x:Name="btnE" Width="20" Click="btnLetter_Click" Tag="e">E</Button>
+                <Button x:Name="btnF" Width="20" Click="btnLetter_Click" Tag="f">F</Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="btnG" Width="20" Click="btnLetter_Click" Tag="g">G</Button>
+                <Button x:Name="btnH" Width="20" Click="btnLetter_Click" Tag="h">H</Button>
+                <Button x:Name="btnI" Width="20" Click="btnLetter_Click" Tag="i">I</Button>
+                <Button x:Name="btnJ" Width="20" Click="btnLetter_Click" Tag="j">J</Button>
+                <Button x:Name="btnK" Width="20" Click="btnLetter_Click" Tag="k">K</Button>
+                <Button x:Name="btnL" Width="20" Click="btnLetter_Click" Tag="l">L</Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="btnM" Width="20" Click="btnLetter_Click" Tag="m">M</Button>
+                <Button x:Name="btnN" Width="20" Click="btnLetter_Click" Tag="n">N</Button>
+                <Button x:Name="btnO" Width="20" Click="btnLetter_Click" Tag="o">O</Button>
+                <Button x:Name="btnP" Width="20" Click="btnLetter_Click" Tag="p">P</Button>
+                <Button x:Name="btnQ" Width="20" Click="btnLetter_Click" Tag="q">Q</Button>
+                <Button x:Name="btnR" Width="20" Click="btnLetter_Click" Tag="r">R</Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="btnS" Width="20" Click="btnLetter_Click" Tag="s">S</Button>
+                <Button x:Name="btnT" Width="20" Click="btnLetter_Click" Tag="t">T</Button>
+                <Button x:Name="btnU" Width="20" Click="btnLetter_Click" Tag="u">U</Button>
+                <Button x:Name="btnV" Width="20" Click="btnLetter_Click" Tag="v">V</Button>
+                <Button x:Name="btnW" Width="20" Click="btnLetter_Click" Tag="w">W</Button>
+                <Button x:Name="btnX" Width="20" Click="btnLetter_Click" Tag="x">X</Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="btnY" Width="20" Click="btnLetter_Click" Tag="y">Y</Button>
+                <Button x:Name="btnZ" Width="20" Click="btnLetter_Click" Tag="z">Z</Button>
+            </StackPanel>
+        </StackPanel>
     </Grid>
 </Window>
